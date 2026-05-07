@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+notebooks/
+README.md
+Lab21_Rubric_and_Format.md
+LISENSE
